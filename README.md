@@ -6,6 +6,32 @@ A modern and responsive Weather Application built using React and Tailwind CSS t
 
 ---
 
+# 📸 Screenshots
+
+## 🏠 Home Screen
+
+Displays the current weather information including temperature, weather condition, humidity, wind speed, and location.
+
+![Home](public/screenshots/home.png)
+
+---
+
+## 🔍 Search Weather
+
+Search for weather information by entering any city name.
+
+![Search](public/screenshots/search.png)
+
+---
+
+## 📱 Mobile Responsive
+
+Fully responsive design optimized for smartphones, tablets, and desktop devices.
+
+![Mobile](public/screenshots/mobile.png)
+
+---
+
 ## 🚀 Features
 
 - 🔍 Search weather by city name
